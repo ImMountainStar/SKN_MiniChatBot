@@ -6,4 +6,6 @@ ____________________
 ______________
 결과 : 흑흑..~ 아직...미완성..~ 
 <br>
+테스트 출력 이미지입니다! 
+<br>
 <img width="363" height="295" alt="image" src="https://github.com/user-attachments/assets/68cc3fcb-146b-4997-b297-336f3668b73c" />
